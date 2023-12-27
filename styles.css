@@ -499,6 +499,7 @@ body {
 }
 .blog-card__thumb {
   border-radius: 10px;
+  max-height: 200px;
 }
 .blog-card__content {
 }
