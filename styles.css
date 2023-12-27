@@ -1,3 +1,8 @@
+@font-face {
+    font-family: figtree;
+    src: url(./assets/fonts/Figtree-VariableFont_wght.ttf);
+}
+
 /* variables */
 :root {
   /* colors */
@@ -15,7 +20,7 @@
   --container-gutter: 2.4rem;
 
   /* fonts */
-  --primary-font: "DM Sans", sans-serif;
+  --primary-font: figtree;
 
   /* transitions */
   --transition1: all 0.3s ease-in-out;
